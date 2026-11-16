@@ -13,6 +13,8 @@
 | --- | --- | --- |
 | 🍃 [青禾顾问工作台](https://github.com/Rajonian/qinghe-advisor) | 营养咨询成交与老客经营的 AI 工作台，含 RAG 知识中心与密钥安全管理 | Next.js · Cloudflare Worker · D1 |
 | 🎯 [岗哨 AI 选岗](https://github.com/Rajonian/gangshao-ai) | 基于条件引擎的公考智能选岗与竞争分析，零依赖单文件 | 原生 HTML/JS |
+| 🌙 [晚安岛](https://github.com/Rajonian/wanan-island) | 面向 1–6 岁家庭的故事生成与家人声音朗读，含多模态语音适配 | FastAPI · 原生 JS |
+| 💼 [AI 报价助手](https://github.com/Rajonian/ai-quote-assistant) | 企业级 AI 报价 SaaS，pgvector 知识库 + 容器化，含评测与回归测试 | FastAPI · pgvector · Docker |
 
 > 在线作品集：[personweb-portfolio.pages.dev](https://personweb-portfolio.pages.dev)
 
